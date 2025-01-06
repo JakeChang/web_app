@@ -67,7 +67,7 @@
 						<div class="text-5xl font-bold mb-6">免費</div>
 						<button
 							class="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-8 py-3 rounded-lg hover:opacity-90 transition-opacity">
-							立即下載
+							<a href="/RenderClean.zip">立即下載</a>
 						</button>
 					</div>
 				</div>
